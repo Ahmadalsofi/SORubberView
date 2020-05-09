@@ -1,0 +1,6 @@
+framework module Pods_SORubberView_Tests {
+  umbrella header "Pods-SORubberView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module SORubberView {
+  umbrella header "SORubberView-umbrella.h"
+
+  export *
+  module * { export * }
+}

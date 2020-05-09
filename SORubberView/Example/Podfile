@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SORubberView_Example' do
+  pod 'SORubberView', :path => '../'
+
+  target 'SORubberView_Tests' do
+    inherit! :search_paths
+
+
+  end
+end

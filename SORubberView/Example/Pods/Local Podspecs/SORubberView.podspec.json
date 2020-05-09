@@ -1,0 +1,22 @@
+{
+  "name": "SORubberView",
+  "version": "0.1.0",
+  "summary": "A short description of SORubberView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Ahmadalsofi/SORubberView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Ahmadalsofi": "alsofiahmad@yahoo.com"
+  },
+  "source": {
+    "git": "https://github.com/Ahmadalsofi/SORubberView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "SORubberView/Classes/**/*"
+}

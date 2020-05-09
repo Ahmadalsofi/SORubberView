@@ -1,0 +1,16 @@
+PODS:
+  - SORubberView (0.1.0)
+
+DEPENDENCIES:
+  - SORubberView (from `../`)
+
+EXTERNAL SOURCES:
+  SORubberView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SORubberView: 366481c5adc5835137dae0299595adcedb6ce6b6
+
+PODFILE CHECKSUM: af515b53a0ef1471249d6fd3c4d984f59a034167
+
+COCOAPODS: 1.9.1
