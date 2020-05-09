@@ -1,5 +1,7 @@
 # SORubberView
 
+## READ ME and HOW TO USE COMING SOON 
+
 [![CI Status](https://img.shields.io/travis/Ahmadalsofi/SORubberView.svg?style=flat)](https://travis-ci.org/Ahmadalsofi/SORubberView)
 [![Version](https://img.shields.io/cocoapods/v/SORubberView.svg?style=flat)](https://cocoapods.org/pods/SORubberView)
 [![License](https://img.shields.io/cocoapods/l/SORubberView.svg?style=flat)](https://cocoapods.org/pods/SORubberView)
